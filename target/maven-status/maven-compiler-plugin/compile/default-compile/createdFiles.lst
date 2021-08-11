@@ -1,0 +1,10 @@
+org/koopa/example/groovy/ConfigurationXMLWriter.class
+org/koopa/example/groovy/GroovyConstant.class
+org/koopa/example/groovy/GroovyBeanTemplate.class
+org/koopa/example/groovy/QuickRefreshFactoryPostProcessor.class
+org/koopa/example/groovy/GroovyDynamicLoader.class
+org/koopa/example/groovy/DatabaseScriptSource.class
+org/koopa/example/groovy/DynamicBean.class
+org/koopa/example/groovy/GroovyBeanManager.class
+org/koopa/example/groovy/GroovyBeanTemplateHolder.class
+org/koopa/example/groovy/InMemoryResource.class
